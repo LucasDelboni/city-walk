@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/city-walk/precache-manifest.5157a4205ed250f9f4c81134463b9226.js"
+  "/city-walk/precache-manifest.b741afb09eadfa0b7d49c2947d445ffc.js"
 );
 
 self.addEventListener('message', (event) => {
