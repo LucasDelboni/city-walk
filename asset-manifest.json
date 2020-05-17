@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/city-walk/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/city-walk/static/js/main.452a18b4.chunk.js",
-    "main.js.map": "/city-walk/static/js/main.452a18b4.chunk.js.map",
+    "main.js": "/city-walk/static/js/main.47583f61.chunk.js",
+    "main.js.map": "/city-walk/static/js/main.47583f61.chunk.js.map",
     "runtime-main.js": "/city-walk/static/js/runtime-main.51ad1661.js",
     "runtime-main.js.map": "/city-walk/static/js/runtime-main.51ad1661.js.map",
     "static/js/2.e5d0c781.chunk.js": "/city-walk/static/js/2.e5d0c781.chunk.js",
     "static/js/2.e5d0c781.chunk.js.map": "/city-walk/static/js/2.e5d0c781.chunk.js.map",
     "index.html": "/city-walk/index.html",
-    "precache-manifest.1eed9f0bc1c5f72b0cc3374141105f0f.js": "/city-walk/precache-manifest.1eed9f0bc1c5f72b0cc3374141105f0f.js",
+    "precache-manifest.5157a4205ed250f9f4c81134463b9226.js": "/city-walk/precache-manifest.5157a4205ed250f9f4c81134463b9226.js",
     "service-worker.js": "/city-walk/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/city-walk/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.e5d0c781.chunk.js.LICENSE.txt": "/city-walk/static/js/2.e5d0c781.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.51ad1661.js",
     "static/js/2.e5d0c781.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.452a18b4.chunk.js"
+    "static/js/main.47583f61.chunk.js"
   ]
 }
