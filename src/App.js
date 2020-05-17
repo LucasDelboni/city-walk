@@ -4,7 +4,6 @@ import Player from './Player';
 const videoStyle= {
   width: "100%", 
   height: "100%",
-  pointerEvents: 'none',
   position: 'absolute'
 };
 
@@ -15,15 +14,12 @@ const section = {
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
-  overflow: 'hidden'
 }
 
 const videoContainer = {
   position: 'absolute',
-  width: '300%',
-  height: '115%',
-  left: '-100%',
-  top: '-7%',
+  width: '100%',
+  height: '100%',
 }
 
 function App() {
@@ -63,7 +59,7 @@ function App() {
       <div style={section}>
         <Player allCities={allCities} changeVideo={changeVideo} source={source}/>
         <div style={videoContainer}>
-          <iframe frameBorder="0" allowFullScreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        <iframe frameBorder="0" allowFullScreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             style={videoStyle} src={videoSource} disablekb="1" title="video">
           </iframe>
         </div>

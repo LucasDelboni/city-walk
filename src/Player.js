@@ -13,7 +13,7 @@ const panel = {
   backgroundColor: 'black',
   zIndex: 1,
   opacity: 0.5,
-  top: 0
+  top: '5%'
 }
 
 const eyeIcon = {
@@ -21,7 +21,8 @@ const eyeIcon = {
   left: 0,
   zIndex: 2,
   opacity: 0.5,
-  top: 0
+  top: '5%',
+  color: 'white'
 }
 
 const h1 = {
